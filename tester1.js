@@ -1,0 +1,1 @@
+document.write(diaDaSemana(2016, 12, 31));
